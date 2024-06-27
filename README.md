@@ -1,4 +1,4 @@
-# DA2324_PRJ1_G13_4
+# DA2324_PRJ1_G13_4 (Grade: 19.3)
 DA 1º Project
 This project was made in the context of the Algorithm Design class.
 
